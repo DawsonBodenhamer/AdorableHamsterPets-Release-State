@@ -1,1 +1,1 @@
-{"release_id":"ahp-3.7.0","schema":1,"sequence":0,"snapshot_digest":"d1e95ecd7e39270dce2d302b18d17f0b29974df931098021c5168f2550b1a4c0","state":"PREPARED","terminal":false,"version":"3.7.0"}
+{"release_id":"ahp-3.7.0","schema":1,"sequence":1,"snapshot_digest":"246535f94dbf9a9d01c25b34d6d2ff6d0f42b8b156116d9d54e742662c8940cd","state":"CANCELLING","terminal":false,"version":"3.7.0"}
